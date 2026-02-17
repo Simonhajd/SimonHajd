@@ -11,6 +11,9 @@ Focus areas:
 
 * Custom PCB design (KiCad)
 * Sensor-driven control systems
-* ML-assisted perception pipelines
+* Computer vision & custom ML models (OCR, pattern recognition)
+* iOS app development for robotics workflows
+
+
 
 Based in Seattle.
